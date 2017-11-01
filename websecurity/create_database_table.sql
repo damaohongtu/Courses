@@ -1,4 +1,4 @@
-#CREATE database websecurity;
+CREATE database websecurity;
 use websecurity;
 drop table if exists csdn;
 create table csdn(
