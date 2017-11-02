@@ -39,6 +39,7 @@ sql2_7="SELECT count(id) AS count7 FROM csdn where passwd  regexp '[0-9]' and pa
 
 #换出饼状图
 ```
+### <a href="http://blog.csdn.net/xushao_movens/article/details/53844013">密码强度检测</a>
 
 
 
